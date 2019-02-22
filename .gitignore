@@ -2,6 +2,7 @@
 
 #misc
 .idea/
+storybook-static
 
 # dependencies
 /node_modules
